@@ -31,6 +31,7 @@ public class LoginFragment extends BaseFragment {
     //commit 1
     //commit 2
     //CBHbchbbhcbhvcxhvvhcxcxccbxz  c  b  bzb
+    //commit kalash
     private FragmentLoginBinding binding;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
